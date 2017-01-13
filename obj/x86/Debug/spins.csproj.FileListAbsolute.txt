@@ -1,0 +1,14 @@
+F:\Raccoon's programs\проги\spins\bin\Debug\spins.exe.config
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\Interop.SpeechLib.dll
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\spins.csproj.ResolveComReference.cache
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\spins.Form1.resources
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\spins.Properties.Resources.resources
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Raccoon's programs\проги\spins\bin\Debug\spins.exe
+F:\Raccoon's programs\проги\spins\bin\Debug\spins.pdb
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\spins.exe
+F:\Raccoon's programs\проги\spins\obj\x86\Debug\spins.pdb
